@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.4.1.0" clr-version="4.0.30319.42000" start-time="2016-08-03 13:20:54Z" end-time="2016-08-03 13:21:08Z" duration="13.377344">
+  <command-line><![CDATA[nunit3-console  bin/Debug/UnitTestProject1.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="UnitTestProject1.dll" fullname="C:\Users\Oleksandr_gura\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-08-03 13:20:54Z" end-time="2016-08-03 13:21:08Z" duration="13.324417" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.4.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="C:\Users\Oleksandr_gura\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1" machine-name="EPUAKHAW0239" user="Oleksandr_Gura" user-domain="KYIV" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\Oleksandr_gura\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12672" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestFixture" id="0-1000" name="UnitTest1" fullname="UnitTest1" classname="UnitTest1" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-08-03 13:20:54Z" end-time="2016-08-03 13:21:08Z" duration="13.304945" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+      <test-case id="0-1001" name="test" fullname="UnitTest1.test" methodname="test" classname="UnitTest1" runstate="Runnable" seed="206317581" result="Passed" start-time="2016-08-03 13:20:58Z" end-time="2016-08-03 13:21:05Z" duration="6.777262" asserts="1" />
+    </test-suite>
+  </test-suite>
+</test-run>
